@@ -1,0 +1,33 @@
+# Compiled source #
+###################
+
+*.exe
+*.o
+*.lo
+*.la
+*.lai
+*.Plo
+*.plo
+*~
+# Installation and Compile files #
+##################################
+
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+config.log
+config.status
+config/
+configure
+include/Makefile
+include/Makefile.in
+include/config.h
+include/config.h.in
+include/stamp-h1
+libtool
+
+# DB files #
+############
+
+Thumbs.db
